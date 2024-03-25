@@ -4,6 +4,10 @@ Add-on functionality
 -
 TimeLine Controls - this add-on adds to Blender 3D timeline additional controls for convenient change start and end frame numbers.
 
+Known issues
+-
+If several areas of the same type are open in the Blender window at the same time, controllers are redrawn in only one of them and don't redraw in others.
+
 Current add-on version
 -
 1.0.0.

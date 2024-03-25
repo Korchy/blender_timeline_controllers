@@ -13,7 +13,7 @@ from .addon import Addon
 bl_info = {
     'name': 'TimeLine Controllers',
     'category': 'All',
-    'author': 'Nikita Akimov',
+    'author': 'Nikita Akimov, Yann Lanthony',
     'version': (1, 0, 0),
     'blender': (4, 0, 0),
     'location': 'All areas with the timeline',
